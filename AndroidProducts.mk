@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_sagit.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_sagit-user \
-    lmodroid_sagit-userdebug \
-    lmodroid_sagit-eng
